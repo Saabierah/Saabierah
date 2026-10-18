@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-I'm an aspiring junior software developer who loves building projects and solving problems. I enjoy understanding how things work and improving a little every day. I write clean, simple code, learn from experienced developers, and use AI tools in my building and workflows to learn faster, debug smarter, and ship more.
+I'm a junior software developer who loves building projects and solving problems. I enjoy understanding how things work and improving a little every day. I write clean, simple code, learn from experienced developers, and use AI tools in my building and workflows to learn faster, debug smarter, and ship more.
 
 ```yaml
 name: Saabierah
